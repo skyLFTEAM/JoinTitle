@@ -1,0 +1,12 @@
+name: JoinTitle
+main: JoinTitle\Main
+version: 0.0.5
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+load: POSTWORLD
+author: skyLFTEAM
+description: A plugin that sends title msg on join.
+
+commands:
+  jointitle:
+    desciption: Edit Title.
+    permission: op
