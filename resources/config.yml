@@ -1,0 +1,28 @@
+---
+#
+#
+#
+#
+#| | 
+# 
+#
+#     Really simple title plugin by NickTehUnicorn.
+#  github: https://github.com/NickTehUnicorn/JoinTitle
+
+# You can use & instead of §.
+
+#
+title: "&l&aWelcome"
+
+#
+subtitle: "&bto my fancy server!"
+
+# ...................................
+fadein: 2
+
+# Seconds it stays on
+stay: 5
+
+# How long it takes for the title to fade out. (in seconds)
+fadeout: 1
+...
