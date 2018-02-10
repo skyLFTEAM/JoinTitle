@@ -4,7 +4,7 @@
  * 
  * 
  * Cool Huh
- *
+ */
 namespace JoinTitle;
 
 use pocketmine\command\CommandSender;
