@@ -1,5 +1,5 @@
 name: JoinTitle
-main: JoinTitle\Main
+main: skyLFTEAM\JoinTitle
 version: 0.0.5
 api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
 load: POSTWORLD
